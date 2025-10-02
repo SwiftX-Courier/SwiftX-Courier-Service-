@@ -203,7 +203,7 @@ const trackingData = {
                 <img src="location.png" alt=""> Delivery City 
             </p>
             <p>
-                ${customer.addres}
+                ${customer.city}
             </p>
             <hr class="hr">
         </div>
@@ -224,7 +224,7 @@ const trackingData = {
             </p>
             
             <p>
-                2025-04-03 15:47:21
+                ${customer.deliverytime}
             </p>
             <hr class="hr">
         </div>
@@ -285,6 +285,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
