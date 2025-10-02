@@ -1,12 +1,12 @@
 
 
 const trackingData = {
-    "ZAF005073892": {
-        trackingNumber: "ZAF005073892",
-        name: "nkosi zamhole",
+    "ZAF005073891": {
+        trackingNumber: "ZAF005073891",
+        name: "Bonga Xhobani",
         country: "south africa",
-        city: "capetown",
-        addres: "capetown road 123"
+        city: "Western Cape",
+        addres: "cape town khayelitsha site c B607A freedom street"
     },
     "ZAF005073898" : {
         trackingNumber: "ZAF005073898",
@@ -282,4 +282,5 @@ const trackingData = {
        
         `
     }
+
 
