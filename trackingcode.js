@@ -6,7 +6,10 @@ const trackingData = {
         name: "Bonga Xhobani",
         country: "south africa",
         city: "Western Cape",
-        addres: "cape town khayelitsha site c B607A freedom street"
+        addres: "cape town khayelitsha site c B607A freedom street",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-01-10",
+        deliverytime: "2025-04-10 08:41:21 AM"
     },
     "ZAF005073898" : {
         trackingNumber: "ZAF005073898",
@@ -39,7 +42,7 @@ const trackingData = {
         <div class="shipment-header">
  <div>
     <img src="location.png" alt="">
-    <p>Arrived Pending Clearance</p>
+    <p>${customer.shipmentstatus}</p>
 </div> 
 
  <div>
@@ -91,7 +94,7 @@ const trackingData = {
             <p class="city">
              <img src="calendar.png" alt="">   Shipping Date
             </p>
-            2025-07-28
+            ${customer.shippingdate}
             <p>
                 
             </p>
@@ -158,7 +161,7 @@ const trackingData = {
             </p>
             
             <p>
-              In Transit
+                ${customer.shipmentstatus}
             </p>
           
             
@@ -174,7 +177,7 @@ const trackingData = {
             </p>
             
             <p>
-                Arrived Pending Clearance
+               ${customer.shipmentstatus}
             </p>
           
             <div>
@@ -282,5 +285,6 @@ const trackingData = {
        
         `
     }
+
 
 
