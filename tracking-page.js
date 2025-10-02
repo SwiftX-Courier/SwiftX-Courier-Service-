@@ -1,7 +1,6 @@
 const validTrackingNumber = [
-    "ZAF005073892",
-    "ZAF005073898",
-    "ZAF005073889"
+    "ZAF005073891"
+   
 ];
 
 document.getElementById("trackingForm").addEventListener("submit", function (event) {
@@ -17,4 +16,5 @@ document.getElementById("trackingForm").addEventListener("submit", function (eve
      else {
           errorMsg.textContent = "Invalid tracking number. Please try again";
         }
+
 });
