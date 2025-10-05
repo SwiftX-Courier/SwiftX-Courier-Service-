@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Western Cape",
         addres: "cape town khayelitsha site c B607A freedom street",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-01-10",
         deliverytime: "2025-04-10 08:41:21 AM"
     },
@@ -285,6 +285,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
