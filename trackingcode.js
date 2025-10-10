@@ -1,30 +1,47 @@
 
 
 const trackingData = {
-    "ZAF005073891": {
-        trackingNumber: "ZAF005073891",
-        name: "Bonga Xhobani",
+    "ZAF0050738911": {
+        trackingNumber: "ZAF0050738911",
+        name: "Xolani Shoba",
         country: "south africa",
-        city: "Western Cape",
-        addres: "cape town khayelitsha site c B607A freedom street",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-01-10",
-        deliverytime: "2025-04-10 08:41:21 AM"
+        city: "Pietermaritzburg",
+        addres: "15 chatterton road",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-10",
+        deliverytime: "2025-010-13 08:41:21 AM"
     },
-    "ZAF005073898" : {
-        trackingNumber: "ZAF005073898",
-        name: "siya jknjxd",
+    "ZAF005073892": {
+        trackingNumber: "ZAF005073892",
+        name: "Luvo mto",
         country: "south africa",
-        city: "free state",
-        addres: "free state road 123"
+        city: "Eastern Cape, Alexandria",
+        addres: "2463 fondini street",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-10",
+        deliverytime: "2025-010-13 08:41:21 AM"
     },
-    "ZAF005073889" : {
-          trackingNumber: "ZAF005073889",
-          name: "zam jjdjd",
+    "ZAF005073893": {
+        trackingNumber: "ZAF005073893",
+        name: "Zakhele",
+        country: "eSwantini",
+        city: "Mskato street, Mbabane",
+        addres: "Embassy house, Grand floor suit of offices east wing",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-10",
+        deliverytime: "2025-010-13 08:41:21 AM"
+    },
+
+       "ZAF005073894": {
+        trackingNumber: "ZAF005073894",
+        name: "Enkosi Macamba",
         country: "south africa",
-        city: "johhanesburg",
-        addres: "johhanesburg road 123"
-    }
+        city: "western cape, cape town",
+        addres: "143 Sir Lowry RD, Foreshore",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-10",
+        deliverytime: "2025-010-13 08:41:21 AM"
+    },
     };
 
     const params = new URLSearchParams(window.location.search);
@@ -285,6 +302,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
