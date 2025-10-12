@@ -42,6 +42,17 @@ const trackingData = {
         shippingdate: "2025-010-10",
         deliverytime: "2025-010-13 08:41:21 AM"
     },
+
+           "ZAF005073895": {
+        trackingNumber: "ZAF005073895",
+        name: "Lonwabo zilwa",
+        country: "south africa",
+        city: "port elizabeth",
+        addres: "port elizabeth, 6001",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-11",
+        deliverytime: "2025-010-13 08:41:21 AM"
+    },
     };
 
     const params = new URLSearchParams(window.location.search);
@@ -302,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
