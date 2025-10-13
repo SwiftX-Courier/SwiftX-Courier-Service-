@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Pietermaritzburg",
         addres: "15 chatterton road",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-10",
         deliverytime: "2025-010-13 08:41:21 AM"
     },
@@ -17,7 +17,7 @@ const trackingData = {
         country: "south africa",
         city: "Eastern Cape, Alexandria",
         addres: "2463 fondini street",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-10",
         deliverytime: "2025-010-13 08:41:21 AM"
     },
@@ -27,7 +27,7 @@ const trackingData = {
         country: "eSwantini",
         city: "Mskato street, Mbabane",
         addres: "Embassy house, Grand floor suit of offices east wing",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-10",
         deliverytime: "2025-010-13 08:41:21 AM"
     },
@@ -38,7 +38,7 @@ const trackingData = {
         country: "south africa",
         city: "western cape, cape town",
         addres: "143 Sir Lowry RD, Foreshore",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-10",
         deliverytime: "2025-010-13 08:41:21 AM"
     },
@@ -49,7 +49,7 @@ const trackingData = {
         country: "south africa",
         city: "port elizabeth",
         addres: "port elizabeth, 6001",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-11",
         deliverytime: "2025-010-13 08:41:21 AM"
     },
@@ -313,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
