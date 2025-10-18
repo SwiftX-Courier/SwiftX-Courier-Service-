@@ -1,15 +1,15 @@
 
 
 const trackingData = {
-    "ZAF0050738911": {
-        trackingNumber: "ZAF0050738911",
-        name: "Xolani Shoba",
+    "ZAF00507389111": {
+        trackingNumber: "ZAF00507389111",
+        name: "Zukisani Gilwa",
         country: "south africa",
-        city: "Pietermaritzburg",
-        addres: "15 chatterton road",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-10",
-        deliverytime: "2025-010-13 08:41:21 AM"
+        city: "Butterworth",
+        addres: "High street and cnr street",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-17",
+        deliverytime: "2025-010-20 08:41:21 AM"
     },
     "ZAF005073892": {
         trackingNumber: "ZAF005073892",
@@ -313,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
