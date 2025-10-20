@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Butterworth",
         addres: "High street and cnr street",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clerance)",
         shippingdate: "2025-010-17",
         deliverytime: "2025-010-20 08:41:21 AM"
     },
@@ -313,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
