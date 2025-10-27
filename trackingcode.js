@@ -2,34 +2,34 @@
 
 const trackingData = {
     "ZAF00507389113": {
-        trackingNumber: "ZAF00507389113",
-        name: "AZWITAMISI DONALD",
+        trackingNumber: "ZAF00507389114",
+        name: "Sfiso aka kwali",
         country: "south africa",
-        city: "LIMPOPO",
-        addres: "polokwane, town THohoyandou",
-        shipmentstatus: "Arrived (Pending Clerance)",
-        shippingdate: "2025-010-22",
-        deliverytime: "2025-010-20 08:41:21 AM"
+        city: "Johannesburg, soweto",
+        addres: "Zola 668b ramogkadi",
+        shipmentstatus: "IN TRANSIT",
+        shippingdate: "2025-010-27",
+        deliverytime: "2025-11-1 08:41:21 AM"
     },
-    "ZAF005073892": {
-        trackingNumber: "ZAF005073892",
-        name: "Luvo mto",
+    "ZAF00507389114": {
+        trackingNumber: "ZAF00507389114",
+        name: "Khothatso Mabitso",
         country: "south africa",
-        city: "Eastern Cape, Alexandria",
-        addres: "2463 fondini street",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-10",
-        deliverytime: "2025-010-13 08:41:21 AM"
+        city: "Emalahleni Withbank, Mpumalanga Province",
+        addres: "Emalahleni Withbank, Mpumalanga Province",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-27",
+        deliverytime: "2025-010-29 08:41:21 AM"
     },
-    "ZAF005073893": {
-        trackingNumber: "ZAF005073893",
-        name: "Zakhele",
-        country: "eSwantini",
-        city: "Mskato street, Mbabane",
-        addres: "Embassy house, Grand floor suit of offices east wing",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-10",
-        deliverytime: "2025-010-13 08:41:21 AM"
+     "ZAF00507389115": {
+        trackingNumber: "ZAF00507389115",
+        name: "Mpendulo Zulu",
+        country: "south africa",
+        city: "umgundlovu district/Richmond",
+        addres: "umgundlovu district/Richmond",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-27",
+        deliverytime: "2025-010-29 08:41:21 AM"
     },
 
        "ZAF005073894": {
@@ -313,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
