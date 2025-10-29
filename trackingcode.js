@@ -17,7 +17,7 @@ const trackingData = {
         country: "south africa",
         city: "Emalahleni Withbank, Mpumalanga Province",
         addres: "Emalahleni Withbank, Mpumalanga Province",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-27",
         deliverytime: "2025-010-29 08:41:21 AM"
     },
@@ -27,7 +27,7 @@ const trackingData = {
         country: "south africa",
         city: "umgundlovu district/Richmond",
         addres: "umgundlovu district/Richmond",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-27",
         deliverytime: "2025-010-29 08:41:21 AM"
     },
@@ -313,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
