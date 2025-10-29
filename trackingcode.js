@@ -32,15 +32,15 @@ const trackingData = {
         deliverytime: "2025-010-29 08:41:21 AM"
     },
 
-       "ZAF005073894": {
-        trackingNumber: "ZAF005073894",
-        name: "Enkosi Macamba",
+       "ZAF00507389116": {
+        trackingNumber: "ZAF00507389116",
+        name: "Thapelo August Phanyane",
         country: "south africa",
-        city: "western cape, cape town",
-        addres: "143 Sir Lowry RD, Foreshore",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-10",
-        deliverytime: "2025-010-13 08:41:21 AM"
+        city: "Mpumalanga",
+        addres: "Mbibane, nkangalala",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-010-28",
+        deliverytime: "2025-11-1 08:41:21 AM"
     },
 
            "ZAF005073895": {
@@ -313,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
