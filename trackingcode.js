@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Johannesburg, soweto",
         addres: "Zola 668b ramogkadi",
-        shipmentstatus: "IN TRANSIT",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-27",
         deliverytime: "2025-11-1 08:41:21 AM"
     },
@@ -38,7 +38,7 @@ const trackingData = {
         country: "south africa",
         city: "Mpumalanga",
         addres: "Mbibane, nkangalala",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-010-28",
         deliverytime: "2025-11-1 08:41:21 AM"
     },
@@ -313,6 +313,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
