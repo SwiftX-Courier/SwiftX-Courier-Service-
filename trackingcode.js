@@ -1,25 +1,47 @@
 
 
 const trackingData = {
-    "ZAF00507389113": {
-        trackingNumber: "ZAF00507389113",
-        name: "Sfiso aka kwali",
+    "ZAF0050738911": {
+        trackingNumber: "ZAF0050738911",
+        name: "Scelo Masangwana",
         country: "south africa",
-        city: "Johannesburg, soweto",
-        addres: "Zola 668b ramogkadi",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-27",
-        deliverytime: "2025-11-1 08:41:21 AM"
+        city: "Somkhele 3935",
+        addres: "R618 via Hlabisa AHRI",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-8",
+        deliverytime: "2025-11-13 08:41:21 AM"
     },
-    "ZAF00507389114": {
-        trackingNumber: "ZAF00507389114",
-        name: "Khothatso Mabitso",
+    
+    "ZAF005073891111": {
+        trackingNumber: "ZAF005073891111",
+        name: "Phila Macanda",
         country: "south africa",
-        city: "Emalahleni Withbank, Mpumalanga Province",
-        addres: "Emalahleni Withbank, Mpumalanga Province",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-27",
-        deliverytime: "2025-010-29 08:41:21 AM"
+        city: "Mpumalanga, Middleburg",
+        addres: "Unit 2 The Palms, 38 Vos Street, 1055",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-8",
+        deliverytime: "2025-11-13 08:41:21 AM"
+    },
+
+        "ZAF0050738911123": {
+        trackingNumber: "ZAF0050738911123",
+        name: "Siyasanda Ben",
+        country: "south africa",
+        city: "Port Elizabeth",
+        addres: "15M Mpendulo Street, Steve Tshwete Village",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-8",
+        deliverytime: "2025-11-13 08:41:21 AM"
+    },
+            "ZAF0050738911124": {
+        trackingNumber: "ZAF0050738911124",
+        name: "Austin Junior Thandolwethu",
+        country: "south africa",
+        city: "Cape Town, western cape",
+        addres: "736 bongani close nyanga 7750 ",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-8",
+        deliverytime: "2025-11-13 08:41:21 AM"
     },
      "ZAF00507389115": {
         trackingNumber: "ZAF00507389115",
@@ -313,6 +335,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
