@@ -43,15 +43,15 @@ const trackingData = {
         shippingdate: "2025-11-8",
         deliverytime: "2025-11-13 08:41:21 AM"
     },
-     "ZAF00507389115": {
-        trackingNumber: "ZAF00507389115",
-        name: "Mpendulo Zulu",
+     "ZAF005073891156": {
+        trackingNumber: "ZAF005073891156",
+        name: "Takudzwa Murambinda",
         country: "south africa",
-        city: "umgundlovu district/Richmond",
-        addres: "umgundlovu district/Richmond",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-27",
-        deliverytime: "2025-010-29 08:41:21 AM"
+        city: "Eastern Cape, East London",
+        addres: "Mdantsane unit 3 House number: 8013",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-8",
+        deliverytime: "2025-11-13 08:41:21 AM"
     },
 
        "ZAF00507389116": {
@@ -65,15 +65,25 @@ const trackingData = {
         deliverytime: "2025-11-1 08:41:21 AM"
     },
 
-           "ZAF005073895": {
-        trackingNumber: "ZAF005073895",
-        name: "Lonwabo zilwa",
+           "ZAF0050738954": {
+        trackingNumber: "ZAF0050738954",
+        name: "Kabelo photo",
         country: "south africa",
-        city: "port elizabeth",
-        addres: "port elizabeth, 6001",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-11",
-        deliverytime: "2025-010-13 08:41:21 AM"
+        city: "ekhuruleni",
+        addres: "house number: 8562 john dube street zone 8 winnie mandela tembisa",
+        shipmentstatus: "IN transit",
+        shippingdate: "2025-11-10",
+        deliverytime: "2025-11-13 08:41:21 AM"
+    },
+              "ZAF00507389545": {
+        trackingNumber: "ZAF00507389545",
+        name: "Mpho mashabane",
+        country: "south africa",
+        city: "south africa",
+        addres: "Cottondale clinic main road to manyeleti",
+        shipmentstatus: "IN transit",
+        shippingdate: "2025-11-11",
+        deliverytime: "2025-11-14 08:41:21 AM"
     },
     };
 
@@ -335,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
