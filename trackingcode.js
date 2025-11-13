@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Somkhele 3935",
         addres: "R618 via Hlabisa AHRI",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-11-8",
         deliverytime: "2025-11-13 08:41:21 AM"
     },
@@ -18,7 +18,7 @@ const trackingData = {
         country: "south africa",
         city: "Mpumalanga, Middleburg",
         addres: "Unit 2 The Palms, 38 Vos Street, 1055",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-11-8",
         deliverytime: "2025-11-13 08:41:21 AM"
     },
@@ -29,7 +29,7 @@ const trackingData = {
         country: "south africa",
         city: "Port Elizabeth",
         addres: "15M Mpendulo Street, Steve Tshwete Village",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: " Arrived (Pending Clearance)",
         shippingdate: "2025-11-8",
         deliverytime: "2025-11-13 08:41:21 AM"
     },
@@ -39,7 +39,7 @@ const trackingData = {
         country: "south africa",
         city: "Cape Town, western cape",
         addres: "736 bongani close nyanga 7750 ",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-11-8",
         deliverytime: "2025-11-13 08:41:21 AM"
     },
@@ -49,7 +49,7 @@ const trackingData = {
         country: "south africa",
         city: "Eastern Cape, East London",
         addres: "Mdantsane unit 3 House number: 8013",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-11-8",
         deliverytime: "2025-11-13 08:41:21 AM"
     },
@@ -71,7 +71,7 @@ const trackingData = {
         country: "south africa",
         city: "ekhuruleni",
         addres: "house number: 8562 john dube street zone 8 winnie mandela tembisa",
-        shipmentstatus: "IN transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-11-10",
         deliverytime: "2025-11-13 08:41:21 AM"
     },
@@ -81,7 +81,7 @@ const trackingData = {
         country: "south africa",
         city: "south africa",
         addres: "Cottondale clinic main road to manyeleti",
-        shipmentstatus: "IN transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-11-11",
         deliverytime: "2025-11-14 08:41:21 AM"
     },
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
