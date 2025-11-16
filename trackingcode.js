@@ -3,45 +3,45 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Scelo Masangwana",
+        name: "Luvo babi",
         country: "south africa",
-        city: "Somkhele 3935",
-        addres: "R618 via Hlabisa AHRI",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-8",
-        deliverytime: "2025-11-13 08:41:21 AM"
+        city: "LIMPOPO",
+        addres: "112 Ngwaabe, Ga masha",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-15",
+        deliverytime: "2025-11-18 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Phila Macanda",
+        name: "Malusi",
         country: "south africa",
-        city: "Mpumalanga, Middleburg",
-        addres: "Unit 2 The Palms, 38 Vos Street, 1055",
+        city: "palm springs",
+        addres: "palm springs honeysuckle streets",
         shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-8",
-        deliverytime: "2025-11-13 08:41:21 AM"
+        shippingdate: "2025-11-15",
+        deliverytime: "2025-11-18 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Siyasanda Ben",
+        name: "Siphamandla Tsobo",
         country: "south africa",
-        city: "Port Elizabeth",
-        addres: "15M Mpendulo Street, Steve Tshwete Village",
-        shipmentstatus: " Arrived (Pending Clearance)",
-        shippingdate: "2025-11-8",
-        deliverytime: "2025-11-13 08:41:21 AM"
+        city: "western cape",
+        addres: "western cape, cape town",
+        shipmentstatus: " IN Transit",
+        shippingdate: "2025-11-15",
+        deliverytime: "2025-11-18 08:41:21 AM"
     },
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Austin Junior Thandolwethu",
+        name: "Vuyokazi Maqhula",
         country: "south africa",
-        city: "Cape Town, western cape",
-        addres: "736 bongani close nyanga 7750 ",
+        city: "Cape Town",
+        addres: "Jip de jager protea hotel durbanville",
         shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-8",
-        deliverytime: "2025-11-13 08:41:21 AM"
+        shippingdate: "2025-11-15",
+        deliverytime: "2025-11-18 08:41:21 AM"
     },
      "ZAF005073891156": {
         trackingNumber: "ZAF005073891156",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
