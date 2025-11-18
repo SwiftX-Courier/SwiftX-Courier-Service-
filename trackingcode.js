@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "LIMPOPO",
         addres: "112 Ngwaabe, Ga masha",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2025-11-15",
         deliverytime: "2025-11-18 08:41:21 AM"
     },
@@ -29,7 +29,7 @@ const trackingData = {
         country: "south africa",
         city: "western cape",
         addres: "western cape, cape town",
-        shipmentstatus: " IN Transit",
+        shipmentstatus: " Arrived (Pending Clearance)",
         shippingdate: "2025-11-15",
         deliverytime: "2025-11-18 08:41:21 AM"
     },
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
