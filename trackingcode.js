@@ -67,13 +67,13 @@ const trackingData = {
 
            "ZAF0050738954": {
         trackingNumber: "ZAF0050738954",
-        name: "Kabelo photo",
+        name: "Terrance Sethojoa ",
         country: "south africa",
-        city: "ekhuruleni",
-        addres: "house number: 8562 john dube street zone 8 winnie mandela tembisa",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-10",
-        deliverytime: "2025-11-13 08:41:21 AM"
+        city: "Hohannesburg, Gaunteng",
+        addres: "23 Wellington Road Parktown",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-22",
+        deliverytime: "2025-11-26 08:41:21 AM"
     },
               "ZAF00507389545": {
         trackingNumber: "ZAF00507389545",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
