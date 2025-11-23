@@ -69,7 +69,7 @@ const trackingData = {
         trackingNumber: "ZAF0050738954",
         name: "Terrance Sethojoa ",
         country: "south africa",
-        city: "Hohannesburg, Gaunteng",
+        city: "Johannesburg, Gaunteng",
         addres: "23 Wellington Road Parktown",
         shipmentstatus: "IN Transit",
         shippingdate: "2025-11-22",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
