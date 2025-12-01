@@ -35,13 +35,13 @@ const trackingData = {
     },
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Vuyokazi Maqhula",
+        name: "Bongani Makhwenkwe",
         country: "south africa",
-        city: "Cape Town",
-        addres: "Jip de jager protea hotel durbanville",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-15",
-        deliverytime: "2025-11-18 08:41:21 AM"
+        city: "Bloemfontein, free state",
+        addres: "Bloemfontein, free state",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-1",
+        deliverytime: "2025-11-4 08:41:21 AM"
     },
      "ZAF005073891156": {
         trackingNumber: "ZAF005073891156",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
