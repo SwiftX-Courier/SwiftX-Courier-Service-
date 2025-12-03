@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Luvo babi",
+        name: "Marvin Carolus",
         country: "south africa",
-        city: "LIMPOPO",
-        addres: "112 Ngwaabe, Ga masha",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-15",
-        deliverytime: "2025-11-18 08:41:21 AM"
+        city: "Gauteng, sandton",
+        addres: "Gauteng, sandton, 2196",
+        shipmentstatus: " IN Transit",
+        shippingdate: "2025-12-2",
+        deliverytime: "2025-11-5 08:41:21 AM"
     },
     
     "ZAF005073891111": {
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
