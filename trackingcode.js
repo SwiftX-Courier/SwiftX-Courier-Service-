@@ -14,34 +14,34 @@ const trackingData = {
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Malusi",
+        name: "Thabiso Tshabalala",
         country: "south africa",
-        city: "palm springs",
-        addres: "palm springs honeysuckle streets",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-15",
-        deliverytime: "2025-11-18 08:41:21 AM"
+        city: "Jphannesburg",
+        addres: "johannesburg, south africa",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-12-3",
+        deliverytime: "2025-12-6 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Siphamandla Tsobo",
+        name: "Basanda Xaba",
         country: "south africa",
-        city: "western cape",
-        addres: "western cape, cape town",
-        shipmentstatus: " Arrived (Pending Clearance)",
-        shippingdate: "2025-11-15",
-        deliverytime: "2025-11-18 08:41:21 AM"
+        city: "Durban, south africa",
+        addres: "Durban, south africa",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-12-3",
+        deliverytime: "2025-12-6 08:41:21 AM"
     },
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Bongani Makhwenkwe",
-        country: "south africa",
-        city: "Bloemfontein, free state",
-        addres: "Bloemfontein, free state",
+        name: "Siyabonga Timothy Dlamini",
+        country: "Eswatini",
+        city: "Eswatini, Manzini",
+        addres: "Eswatini, Manzini",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-11-1",
-        deliverytime: "2025-11-4 08:41:21 AM"
+        shippingdate: "2025-12-3",
+        deliverytime: "2025-12-6 08:41:21 AM"
     },
      "ZAF005073891156": {
         trackingNumber: "ZAF005073891156",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
