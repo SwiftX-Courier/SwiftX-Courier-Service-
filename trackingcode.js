@@ -67,13 +67,13 @@ const trackingData = {
 
            "ZAF0050738954": {
         trackingNumber: "ZAF0050738954",
-        name: "Terrance Sethojoa ",
+        name: "Thulani Booi ",
         country: "south africa",
-        city: "Johannesburg, Gaunteng",
-        addres: "23 Wellington Road Parktown",
+        city: "Eastern Cape",
+        addres: "N0. 10 independence Avenue Bhiso high court",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-11-22",
-        deliverytime: "2025-11-26 08:41:21 AM"
+        shippingdate: "2025-12-06",
+        deliverytime: "2025-12-09 08:41:21 AM"
     },
               "ZAF00507389545": {
         trackingNumber: "ZAF00507389545",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
