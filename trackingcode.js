@@ -77,13 +77,13 @@ const trackingData = {
     },
               "ZAF00507389545": {
         trackingNumber: "ZAF00507389545",
-        name: "Mpho mashabane",
+        name: "Junior Sibusiso Masilela",
         country: "south africa",
-        city: "south africa",
-        addres: "Cottondale clinic main road to manyeleti",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-11",
-        deliverytime: "2025-11-14 08:41:21 AM"
+        city: "Mpumalanga, Barberton",
+        addres: "Mpumalanga, Barberton 1300",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2025-11-04",
+        deliverytime: "2025-12-08 08:41:21 AM"
     },
     };
 
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
