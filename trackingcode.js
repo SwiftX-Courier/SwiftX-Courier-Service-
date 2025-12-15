@@ -3,45 +3,45 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Marvin Carolus",
+        name: "Ayanda mtembu",
         country: "south africa",
-        city: "Gauteng, sandton",
-        addres: "Gauteng, sandton, 2196",
+        city: "Umlazi, Durban",
+        addres: "N708 Masakhane road",
         shipmentstatus: " IN Transit",
-        shippingdate: "2025-12-2",
-        deliverytime: "2025-11-5 08:41:21 AM"
+        shippingdate: "2025-12-14",
+        deliverytime: "2025-11-17 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Thabiso Tshabalala",
+        name: "SIYABULELA bETHWELLL",
         country: "south africa",
-        city: "Jphannesburg",
-        addres: "johannesburg, south africa",
+        city: "western cape,beaufort west",
+        addres: "N455 dliso avenue Kwa-Mandlenkosi location",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-3",
-        deliverytime: "2025-12-6 08:41:21 AM"
+        shippingdate: "2025-12-14",
+        deliverytime: "2025-12-17 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Basanda Xaba",
-        country: "south africa",
-        city: "Durban, south africa",
-        addres: "Durban, south africa",
+        name: "Aobakwe Maratswane",
+        country: "Botswana",
+        city: "Gaborone, Botswana",
+        addres: "P.O Box 10272, Gaborone",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-3",
-        deliverytime: "2025-12-6 08:41:21 AM"
+        shippingdate: "2025-12-14",
+        deliverytime: "2025-12-17 08:41:21 AM"
     },
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Siyabonga Timothy Dlamini",
-        country: "Eswatini",
-        city: "Eswatini, Manzini",
-        addres: "Eswatini, Manzini",
+        name: "Fred junior",
+        country: "south africa",
+        city: "johannesburg",
+        addres: "johannesburg",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-3",
-        deliverytime: "2025-12-6 08:41:21 AM"
+        shippingdate: "2025-12-14",
+        deliverytime: "2025-12-17 08:41:21 AM"
     },
      "ZAF005073891156": {
         trackingNumber: "ZAF005073891156",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
