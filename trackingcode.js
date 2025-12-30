@@ -14,13 +14,13 @@ const trackingData = {
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "SIYABULELA bETHWELLL",
+        name: "Ndabezitha",
         country: "south africa",
-        city: "western cape,beaufort west",
-        addres: "N455 dliso avenue Kwa-Mandlenkosi location",
+        city: "Ndabezitha road,Durban ",
+        addres: "Ndabezitha road,Durban ",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-14",
-        deliverytime: "2025-12-17 08:41:21 AM"
+        shippingdate: "2025-12-27",
+        deliverytime: "2025-12-31 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
