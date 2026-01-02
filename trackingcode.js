@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Ayanda mtembu",
+        name: "Johny Kamogelo Sello",
         country: "south africa",
-        city: "Umlazi, Durban",
-        addres: "N708 Masakhane road",
+        city: "south africa",
+        addres: "7889 ext 3b Umbijo Soshanguve",
         shipmentstatus: " IN Transit",
-        shippingdate: "2025-12-14",
-        deliverytime: "2025-12-17 08:41:21 AM"
+        shippingdate: "2025-12-31",
+        deliverytime: "2025-12-3 08:41:21 AM"
     },
     
     "ZAF005073891111": {
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
