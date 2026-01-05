@@ -14,13 +14,13 @@ const trackingData = {
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Ndabezitha",
+        name: "Mthatha",
         country: "south africa",
-        city: "Ndabezitha road,Durban ",
-        addres: "Ndabezitha road,Durban ",
+        city: "mthatha ",
+        addres: "1407 Gcaleka, Ngangelizwe,mthata 5100",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-27",
-        deliverytime: "2025-12-31 08:41:21 AM"
+        shippingdate: "2025-1-3",
+        deliverytime: "2025-1-4 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
