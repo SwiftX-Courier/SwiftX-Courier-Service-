@@ -3,35 +3,35 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Johny Kamogelo Sello",
+        name: "Kevin Khosa",
         country: "south africa",
-        city: "south africa",
-        addres: "7889 ext 3b Umbijo Soshanguve",
+        city: "Gauteng, randburg",
+        addres: "SKIN functional 19 Design Boulevard northland decopark",
         shipmentstatus: " IN Transit",
-        shippingdate: "2025-12-31",
-        deliverytime: "2025-12-3 08:41:21 AM"
+        shippingdate: "2026-1-13",
+        deliverytime: "2026-1-15 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Mthatha",
+        name: "Luthabile Nyamende",
         country: "south africa",
-        city: "mthatha ",
-        addres: "1407 Gcaleka, Ngangelizwe,mthata 5100",
+        city: "Western Cape ",
+        addres: "south africa, western cape",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-1-3",
-        deliverytime: "2025-1-4 08:41:21 AM"
+        shippingdate: "2026-1-13",
+        deliverytime: "2026-1-15 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Aobakwe Maratswane",
-        country: "Botswana",
-        city: "Gaborone, Botswana",
-        addres: "P.O Box 10272, Gaborone",
+        name: "Glen Hlayisani Ngobeni",
+        country: "south africa",
+        city: "Cape town, western cape",
+        addres: "western cape town",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-14",
-        deliverytime: "2025-12-17 08:41:21 AM"
+        shippingdate: "2026-1-13",
+        deliverytime: "2026-1-15 08:41:21 AM"
     },
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
