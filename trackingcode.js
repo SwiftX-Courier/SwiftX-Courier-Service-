@@ -3,24 +3,24 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Kevin Khosa",
+        name: "Muammar Gaddafi",
         country: "south africa",
-        city: "Gauteng, randburg",
-        addres: "SKIN functional 19 Design Boulevard northland decopark",
+        city: "Tumisang Magele",
+        addres: "Tumisang Magele",
         shipmentstatus: " IN Transit",
-        shippingdate: "2026-1-13",
-        deliverytime: "2026-1-15 08:41:21 AM"
+        shippingdate: "2026-1-20",
+        deliverytime: "2026-1-25 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Luthabile Nyamende",
+        name: "Kenneth Khubisa",
         country: "south africa",
-        city: "Western Cape ",
-        addres: "south africa, western cape",
+        city: "amanzimtoti west street ",
+        addres: "amanzimtoti west street",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-1-13",
-        deliverytime: "2026-1-15 08:41:21 AM"
+        shippingdate: "2026-1-20",
+        deliverytime: "2026-1-25 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
@@ -35,45 +35,45 @@ const trackingData = {
     },
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Fred junior",
+        name: "Apiwe Adonisi",
         country: "south africa",
-        city: "johannesburg",
-        addres: "johannesburg",
+        city: "92 Cork tree road",
+        addres: "Thubelitsha Delft south, post addressn7100",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-14",
-        deliverytime: "2025-12-17 08:41:21 AM"
+        shippingdate: "2026-1-20",
+        deliverytime: "2026-1-25 08:41:21 AM"
     },
      "ZAF005073891156": {
         trackingNumber: "ZAF005073891156",
-        name: "Takudzwa Murambinda",
+        name: "donkoehok",
         country: "south africa",
-        city: "Eastern Cape, East London",
-        addres: "Mdantsane unit 3 House number: 8013",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-11-8",
-        deliverytime: "2025-11-13 08:41:21 AM"
+        city: "free state",
+        addres: "Boshof",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-1-25",
+        deliverytime: "2026-1-25 08:41:21 AM"
     },
 
        "ZAF00507389116": {
         trackingNumber: "ZAF00507389116",
-        name: "Thapelo August Phanyane",
+        name: "Niniwe Makhura",
         country: "south africa",
-        city: "Mpumalanga",
-        addres: "Mbibane, nkangalala",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2025-010-28",
-        deliverytime: "2025-11-1 08:41:21 AM"
+        city: "Moholo street",
+        addres: "1033 MM M amelodi east pretoria ",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-1-20",
+        deliverytime: "2026-1-25 08:41:21 AM"
     },
 
            "ZAF0050738954": {
         trackingNumber: "ZAF0050738954",
-        name: "Thulani Booi ",
+        name: "Xolile Berent Ditalame ",
         country: "south africa",
-        city: "Eastern Cape",
-        addres: "N0. 10 independence Avenue Bhiso high court",
+        city: "Free State, Bultfontein, Phahameng",
+        addres: "5272 Moses Mabida street Phameng Bultfontein",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-12-06",
-        deliverytime: "2025-12-09 08:41:21 AM"
+        shippingdate: "2026-1-24",
+        deliverytime: "2026-1-27 08:41:21 AM"
     },
               "ZAF00507389545": {
         trackingNumber: "ZAF00507389545",
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
