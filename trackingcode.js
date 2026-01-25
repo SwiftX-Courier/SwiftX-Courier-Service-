@@ -77,13 +77,13 @@ const trackingData = {
     },
               "ZAF00507389545": {
         trackingNumber: "ZAF00507389545",
-        name: "Junior Sibusiso Masilela",
+        name: "Sinoxolo",
         country: "south africa",
-        city: "Mpumalanga, Barberton",
-        addres: "Mpumalanga, Barberton 1300",
+        city: "Eastern cape",
+        addres: "King williams Town 5600 12 Alice Street",
         shipmentstatus: "IN Transit",
-        shippingdate: "2025-11-04",
-        deliverytime: "2025-12-08 08:41:21 AM"
+        shippingdate: "2026-1-24",
+        deliverytime: "2026-1-26 08:41:21 AM"
     },
     };
 
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
