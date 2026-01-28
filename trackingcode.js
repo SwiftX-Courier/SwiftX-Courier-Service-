@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Muammar Gaddafi",
+        name: "Anesh Marks",
         country: "south africa",
-        city: "Tumisang Magele",
-        addres: "Tumisang Magele",
+        city: "Eastern Cape",
+        addres: "Middleburg, midros, 5900",
         shipmentstatus: " IN Transit",
-        shippingdate: "2026-1-20",
-        deliverytime: "2026-1-25 08:41:21 AM"
+        shippingdate: "2026-1-25",
+        deliverytime: "2026-1-26 08:41:21 AM"
     },
     
     "ZAF005073891111": {
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
