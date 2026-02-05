@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Richardsbay",
         addres: "richardsbay,KZN",
-        shipmentstatus: " IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-1-02",
         deliverytime: "2026-5-02 08:41:21 AM"
     },
@@ -18,7 +18,7 @@ const trackingData = {
         country: "south africa",
         city: "Polokwane, Limpopo",
         addres: "78 Sylvia Tshmkeng street, limpopo,sesgego house NO: 2569",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-1-02",
         deliverytime: "2026-5-02 08:41:21 AM"
     },
@@ -29,7 +29,7 @@ const trackingData = {
         country: "south africa",
         city: "Cape town, western cape",
         addres: "western cape town",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-1-13",
         deliverytime: "2026-1-15 08:41:21 AM"
     },
@@ -39,7 +39,7 @@ const trackingData = {
         country: "south africa",
         city: "Umtata,eastern",
         addres: "Umtata,eastern",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-1-02",
         deliverytime: "2026-5-02 08:41:21 AM"
     },
@@ -49,7 +49,7 @@ const trackingData = {
         country: "south africa",
         city: "Johannesburg,gaunteng",
         addres: "Johannesburg,gaunteng",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-1-02",
         deliverytime: "2026-5-02 08:41:21 AM"
     },
@@ -60,7 +60,7 @@ const trackingData = {
         country: "south africa",
         city: "johannesburg",
         addres: "johannesburg, south africa",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-1-02",
         deliverytime: "2026-5-02 08:41:21 AM"
     },
@@ -71,7 +71,7 @@ const trackingData = {
         country: "south africa",
         city: "Western cape",
         addres: "western cape, cape town",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-1-02",
         deliverytime: "2026-5-02 08:41:21 AM"
     },
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
