@@ -3,24 +3,24 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Siyabonga Perceval Thabede",
+        name: "xolela may",
         country: "south africa",
-        city: "Richardsbay",
-        addres: "richardsbay,KZN",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-1-02",
-        deliverytime: "2026-5-02 08:41:21 AM"
+        city: "cape town, western cape",
+        addres: "cape town, western cape",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-19-02",
+        deliverytime: "2026-21-02 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Nkagwang Mogomtsi",
+        name: "fakudze blessing",
         country: "south africa",
-        city: "Polokwane, Limpopo",
-        addres: "78 Sylvia Tshmkeng street, limpopo,sesgego house NO: 2569",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-1-02",
-        deliverytime: "2026-5-02 08:41:21 AM"
+        city: "johannesburg,soweto",
+        addres: "johannesburg,soweto,ngunguyane street 4910",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-19-02",
+        deliverytime: "2026-21-02 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
@@ -345,6 +345,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
