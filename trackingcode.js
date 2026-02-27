@@ -3,24 +3,35 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "xolela may",
+        name: "Sbonelo Magcaba",
         country: "south africa",
-        city: "cape town, western cape",
-        addres: "cape town, western cape",
+        city: "Gauteng",
+        addres: "1017 pennyroyal crescent road, zakariyya park 1813",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-19-02",
-        deliverytime: "2026-21-02 08:41:21 AM"
+        shippingdate: "2026-26-02",
+        deliverytime: "2026-1-03 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "fakudze blessing",
+        name: "Wiseman Nkosi",
         country: "south africa",
-        city: "johannesburg,soweto",
-        addres: "johannesburg,soweto,ngunguyane street 4910",
+        city: "Pongola",
+        addres: "post office 44 new republic street",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-19-02",
-        deliverytime: "2026-21-02 08:41:21 AM"
+        shippingdate: "2026-26-02",
+        deliverytime: "2026-1-03 08:41:21 AM"
+    },
+
+            "ZAF0050738911124": {
+        trackingNumber: "ZAF0050738911124",
+        name: "Siyamthemba Jack",
+        country: "south africa",
+        city: "East London",
+        addres: "48 Clark street sunnyside amalinda 5247",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-26-02",
+        deliverytime: "2026-1-03 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
@@ -29,20 +40,11 @@ const trackingData = {
         country: "south africa",
         city: "Cape town, western cape",
         addres: "western cape town",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-1-13",
-        deliverytime: "2026-1-15 08:41:21 AM"
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-26-02",
+        deliverytime: "2026-1-03 08:41:21 AM"
     },
-            "ZAF0050738911124": {
-        trackingNumber: "ZAF0050738911124",
-        name: "Lonwabo Kumbaca",
-        country: "south africa",
-        city: "Umtata,eastern",
-        addres: "Umtata,eastern",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-1-02",
-        deliverytime: "2026-5-02 08:41:21 AM"
-    },
+    
      "ZAF005073891156": {
         trackingNumber: "ZAF005073891156",
         name: "Monde Pellem",
@@ -345,6 +347,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
