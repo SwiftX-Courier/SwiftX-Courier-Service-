@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Gauteng",
         addres: "1017 pennyroyal crescent road, zakariyya park 1813",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2026-26-02",
         deliverytime: "2026-1-03 08:41:21 AM"
     },
@@ -18,7 +18,7 @@ const trackingData = {
         country: "south africa",
         city: "Pongola",
         addres: "post office 44 new republic street",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2026-26-02",
         deliverytime: "2026-1-03 08:41:21 AM"
     },
@@ -29,7 +29,7 @@ const trackingData = {
         country: "south africa",
         city: "East London",
         addres: "48 Clark street sunnyside amalinda 5247",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2026-26-02",
         deliverytime: "2026-1-03 08:41:21 AM"
     },
@@ -40,7 +40,7 @@ const trackingData = {
         country: "south africa",
         city: "Cape town, western cape",
         addres: "western cape town",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2026-26-02",
         deliverytime: "2026-1-03 08:41:21 AM"
     },
@@ -347,6 +347,7 @@ const trackingData = {
        
         `
     }
+
 
 
 
