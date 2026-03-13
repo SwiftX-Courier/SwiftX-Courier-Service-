@@ -3,46 +3,46 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Sbonelo Magcaba",
+        name: "Phumlani Tyeku",
         country: "south africa",
-        city: "Gauteng",
-        addres: "1017 pennyroyal crescent road, zakariyya park 1813",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2026-26-02",
-        deliverytime: "2026-1-03 08:41:21 AM"
+        city: "Western Cape, Cape Town",
+        addres: "D263Lweni Crescent Khayelitsha 7784",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-13-03",
+        deliverytime: "2026-16-03 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Wiseman Nkosi",
+        name: "Lunje Mnqanqeni",
         country: "south africa",
-        city: "Pongola",
-        addres: "post office 44 new republic street",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2026-26-02",
-        deliverytime: "2026-1-03 08:41:21 AM"
+        city: "Eastern Cape, fort Beaufort",
+        addres: "3708 Hillside location 5720",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-13-03",
+        deliverytime: "2026-16-03 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Siyamthemba Jack",
+        name: "Simphiwe Eric Sheringane",
         country: "south africa",
-        city: "East London",
-        addres: "48 Clark street sunnyside amalinda 5247",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2026-26-02",
-        deliverytime: "2026-1-03 08:41:21 AM"
+        city: "Johannesburg",
+        addres: "238 Mathe mopeli section Katlehong 1431",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-13-03",
+        deliverytime: "2026-16-03 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Glen Hlayisani Ngobeni",
+        name: "Lihle Mbongwana",
         country: "south africa",
-        city: "Cape town, western cape",
-        addres: "western cape town",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2026-26-02",
-        deliverytime: "2026-1-03 08:41:21 AM"
+        city: "Mthatha",
+        addres: "Mthatha",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-13-03",
+        deliverytime: "2026-16-03 08:41:21 AM"
     },
     
      "ZAF005073891156": {
@@ -58,13 +58,13 @@ const trackingData = {
 
        "ZAF00507389116": {
         trackingNumber: "ZAF00507389116",
-        name: "Simon Hlogwane",
+        name: "Christo Dean Van Der Merwe",
         country: "south africa",
-        city: "johannesburg",
-        addres: "johannesburg, south africa",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-1-02",
-        deliverytime: "2026-5-02 08:41:21 AM"
+        city: "Cape Town",
+        addres: "6 Birkenhead cressent, Ruyterwacht",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-4-03",
+        deliverytime: "2026-14-03 08:41:21 AM"
     },
 
            "ZAF0050738954": {
