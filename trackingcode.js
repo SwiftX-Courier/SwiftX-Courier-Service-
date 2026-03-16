@@ -18,7 +18,7 @@ const trackingData = {
         country: "south africa",
         city: "Eastern Cape, fort Beaufort",
         addres: "3708 Hillside location 5720",
-        shipmentstatus: "Arrived(Pending Clearance)",",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-13-03",
         deliverytime: "2026-16-03 08:41:21 AM"
     },
@@ -29,7 +29,7 @@ const trackingData = {
         country: "south africa",
         city: "Johannesburg",
         addres: "238 Mathe mopeli section Katlehong 1431",
-        shipmentstatus: "Arrived(Pending Clearance)",",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-13-03",
         deliverytime: "2026-16-03 08:41:21 AM"
     },
@@ -40,7 +40,7 @@ const trackingData = {
         country: "south africa",
         city: "Mthatha",
         addres: "Mthatha",
-        shipmentstatus: "Arrived(Pending Clearance)",",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-13-03",
         deliverytime: "2026-16-03 08:41:21 AM"
     },
