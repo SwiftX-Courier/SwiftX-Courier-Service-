@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Phumlani Tyeku",
+        name: "Ketseletso Lekate",
         country: "south africa",
-        city: "Western Cape, Cape Town",
-        addres: "D263Lweni Crescent Khayelitsha 7784",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-13-03",
-        deliverytime: "2026-16-03 08:41:21 AM"
+        city: "Germiston",
+        addres: "1190 latin street buhle park",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-17-03",
+        deliverytime: "2026-21-03 08:41:21 AM"
     },
     
     "ZAF005073891111": {
