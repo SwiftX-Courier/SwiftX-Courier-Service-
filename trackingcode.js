@@ -14,13 +14,13 @@ const trackingData = {
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Lunje Mnqanqeni",
+        name: "Prosper Melvin Mathibula",
         country: "south africa",
-        city: "Eastern Cape, fort Beaufort",
-        addres: "3708 Hillside location 5720",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-13-03",
-        deliverytime: "2026-16-03 08:41:21 AM"
+        city: "North West",
+        addres: "116 old rustenburg road brits ",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-19-03",
+        deliverytime: "2026-23-03 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
