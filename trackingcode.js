@@ -36,24 +36,24 @@ const trackingData = {
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Lihle Mbongwana",
+        name: "Mfanafuthi Khumalo",
         country: "south africa",
-        city: "Mthatha",
-        addres: "Mthatha",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-13-03",
-        deliverytime: "2026-16-03 08:41:21 AM"
+        city: "Vryheid",
+        addres: "KwaZulu-Natal",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-22-03",
+        deliverytime: "2026-25-03 08:41:21 AM"
     },
     
      "ZAF005073891156": {
         trackingNumber: "ZAF005073891156",
-        name: "Monde Pellem",
+        name: "Samkdlo Luhani",
         country: "south africa",
-        city: "Johannesburg,gaunteng",
-        addres: "Johannesburg,gaunteng",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-1-02",
-        deliverytime: "2026-5-02 08:41:21 AM"
+        city: "Westonaria",
+        addres: "1649 Mzamomhle Street 1779",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-22-02",
+        deliverytime: "2026-5-25 08:41:21 AM"
     },
 
        "ZAF00507389116": {
