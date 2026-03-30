@@ -19,8 +19,8 @@ const trackingData = {
         city: "Gauteng,midrand",
         addres: "Unit C74 Cranes @Riversideview, pigweed crescent 2055 ",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-19-03",
-        deliverytime: "2026-23-03 08:41:21 AM"
+        shippingdate: "2026-29-03",
+        deliverytime: "2026-2-04 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
