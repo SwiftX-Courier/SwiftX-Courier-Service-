@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Ketseletso Lekate",
+        name: "sinothando george",
         country: "south africa",
-        city: "Germiston",
-        addres: "1190 latin street buhle park",
+        city: "25 edward st qonce",
+        addres: "25 edward st qonce",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-17-03",
-        deliverytime: "2026-21-03 08:41:21 AM"
+        shippingdate: "2026-29-03",
+        deliverytime: "2026-30-03 08:41:21 AM"
     },
     
     "ZAF005073891111": {
