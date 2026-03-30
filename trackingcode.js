@@ -14,10 +14,10 @@ const trackingData = {
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Prosper Melvin Mathibula",
+        name: "Glyn-Calvin Maraba",
         country: "south africa",
-        city: "North West",
-        addres: "116 old rustenburg road brits ",
+        city: "Gauteng,midrand",
+        addres: "Unit C74 Cranes @Riversideview, pigweed crescent 2055 ",
         shipmentstatus: "IN Transit",
         shippingdate: "2026-19-03",
         deliverytime: "2026-23-03 08:41:21 AM"
