@@ -18,7 +18,7 @@ const trackingData = {
         country: "south africa",
         city: "Gauteng,midrand",
         addres: "Unit C74 Cranes @Riversideview, pigweed crescent 2055 ",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived(Pending Clearance)",
         shippingdate: "2026-29-03",
         deliverytime: "2026-2-04 08:41:21 AM"
     },
