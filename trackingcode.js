@@ -3,24 +3,24 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "sinothando george",
+        name: "Innocent Ndovu",
         country: "south africa",
-        city: "25 edward st qonce",
-        addres: "25 edward st qonce",
+        city: "johannesburg",
+        addres: "johannesburg",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-29-03",
-        deliverytime: "2026-30-03 08:41:21 AM"
+        shippingdate: "2026-14-04",
+        deliverytime: "2026-17-04 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Glyn-Calvin Maraba",
+        name: "Kefuoe eric",
         country: "south africa",
-        city: "Gauteng,midrand",
-        addres: "Unit C74 Cranes @Riversideview, pigweed crescent 2055 ",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-29-03",
-        deliverytime: "2026-2-04 08:41:21 AM"
+        city: "free state",
+        addres: "710 butayi section, namahadi",
+              shipmentstatus: "IN Transit",
+        shippingdate: "2026-14-04",
+        deliverytime: "2026-17-04 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
