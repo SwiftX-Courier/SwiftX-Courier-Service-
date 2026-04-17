@@ -25,24 +25,24 @@ const trackingData = {
 
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Simphiwe Eric Sheringane",
+        name: "Benny Mathye",
         country: "south africa",
         city: "Johannesburg",
-        addres: "238 Mathe mopeli section Katlehong 1431",
-        shipmentstatus: "Arrived(Pending Clearance)",
-        shippingdate: "2026-13-03",
-        deliverytime: "2026-16-03 08:41:21 AM"
+        addres: "Alexandra 16 florence mophoso street",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-16-04",
+        deliverytime: "2026-20-04 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Mfanafuthi Khumalo",
+        name: "Thaabela Mlindazwe",
         country: "south africa",
-        city: "Vryheid",
-        addres: "KwaZulu-Natal",
+        city: "Durban",
+        addres: "jack martens drive shop 326/327 the pavilion shopping westvilw",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-22-03",
-        deliverytime: "2026-25-03 08:41:21 AM"
+        shippingdate: "2026-16-04",
+        deliverytime: "2026-20-04 08:41:21 AM"
     },
     
      "ZAF005073891156": {
