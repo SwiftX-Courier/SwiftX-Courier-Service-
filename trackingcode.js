@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Innocent Ndovu",
+        name: "Ayanda Theo Ntutu",
         country: "south africa",
         city: "johannesburg",
-        addres: "johannesburg",
+        addres: "10957 extension 6A orange farm",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-14-04",
-        deliverytime: "2026-17-04 08:41:21 AM"
+        shippingdate: "2026-23-04",
+        deliverytime: "2026-27-04 08:41:21 AM"
     },
     
     "ZAF005073891111": {
