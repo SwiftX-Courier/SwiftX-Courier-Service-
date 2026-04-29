@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Ayanda Theo Ntutu",
+        name: "Sepedi Eric Letswalo",
         country: "south africa",
-        city: "johannesburg",
-        addres: "10957 extension 6A orange farm",
+        city: "johannesburg, Gauteng",
+        addres: "47 star street tshepo section tembisa 1632",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-23-04",
-        deliverytime: "2026-27-04 08:41:21 AM"
+        shippingdate: "2026-28-04",
+        deliverytime: "2026-2-05 08:41:21 AM"
     },
     
     "ZAF005073891111": {
