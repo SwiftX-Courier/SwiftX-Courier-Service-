@@ -3,24 +3,24 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Sepedi Eric Letswalo",
+        name: "Mr Maliluleke",
         country: "south africa",
-        city: "johannesburg, Gauteng",
-        addres: "47 star street tshepo section tembisa 1632",
+        city: "Wynberg",
+        addres: "23 Thora Cres, Wynberg 2091",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-28-04",
-        deliverytime: "2026-2-05 08:41:21 AM"
+        shippingdate: "2026-14-05",
+        deliverytime: "2026-18-05 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Kefuoe eric",
+        name: "maokeng",
         country: "south africa",
-        city: "free state",
-        addres: "710 butayi section, namahadi",
+        city: "Gaunteng, johannesburg kempton park ",
+        addres: "kempton park city of ekurhuleni",
               shipmentstatus: "IN Transit",
-        shippingdate: "2026-14-04",
-        deliverytime: "2026-17-04 08:41:21 AM"
+        shippingdate: "2026-14-05",
+        deliverytime: "2026-18-05 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
