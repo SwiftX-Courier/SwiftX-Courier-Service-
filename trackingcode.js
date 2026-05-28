@@ -3,35 +3,35 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Mr Maliluleke",
+        name: "Jerome du toit",
         country: "south africa",
-        city: "Wynberg",
-        addres: "23 Thora Cres, Wynberg 2091",
+        city: "Eastern cape",
+        addres: "Riebeek east 5805",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-14-05",
-        deliverytime: "2026-18-05 08:41:21 AM"
+        shippingdate: "2026-27-05",
+        deliverytime: "2026-1-06 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "maokeng",
+        name: "Mr linda mkhungo",
         country: "south africa",
-        city: "Gaunteng, johannesburg kempton park ",
-        addres: "kempton park city of ekurhuleni",
+        city:"Durban ",
+        addres: "Lakehaven estate, newlands east",
               shipmentstatus: "IN Transit",
-        shippingdate: "2026-14-05",
-        deliverytime: "2026-18-05 08:41:21 AM"
+        shippingdate: "2026-27-05",
+        deliverytime: "2026-1-06 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Benny Mathye",
+        name: "Balisoa",
         country: "south africa",
-        city: "Johannesburg",
-        addres: "Alexandra 16 florence mophoso street",
+        city: "capetown",
+        addres: "somerset west sir lowrys pass",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-16-04",
-        deliverytime: "2026-20-04 08:41:21 AM"
+        shippingdate: "2026-27-04",
+        deliverytime: "2026-1-06 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
