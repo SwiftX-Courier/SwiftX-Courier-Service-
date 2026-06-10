@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Jerome du toit",
+        name: "Mxolisi shozi",
         country: "south africa",
-        city: "Eastern cape",
-        addres: "Riebeek east 5805",
+        city: "Durban,Kwazulu Natal  ",
+        addres: "R102 main road isipofu tribal authority hibberdine 4220",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-27-05",
-        deliverytime: "2026-1-06 08:41:21 AM"
+        shippingdate: "2026-8-06",
+        deliverytime: "2026-13-06 08:41:21 AM"
     },
     
     "ZAF005073891111": {
