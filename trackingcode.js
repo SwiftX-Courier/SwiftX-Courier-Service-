@@ -14,13 +14,13 @@ const trackingData = {
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Mr linda mkhungo",
+        name: "Ezile Lugayeni",
         country: "south africa",
-        city:"Durban ",
-        addres: "Lakehaven estate, newlands east",
+        city:"Johannesburg, Gauteng ",
+        addres: "Glen maykonos 24 Fiskaal street, kempton park 1619",
               shipmentstatus: "IN Transit",
-        shippingdate: "2026-27-05",
-        deliverytime: "2026-1-06 08:41:21 AM"
+        shippingdate: "2026-10-06",
+        deliverytime: "2026-15-06 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
