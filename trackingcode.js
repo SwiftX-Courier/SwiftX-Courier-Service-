@@ -7,20 +7,20 @@ const trackingData = {
         country: "south africa",
         city: "5720 FORT BEAUFORT  ",
         addres: "4172 NEW HOUSING",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2026-13-06",
         deliverytime: "2026-17-06 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Ezile Lugayeni",
+        name: "Simphiwe Mathe",
         country: "south africa",
-        city:"Johannesburg, Gauteng ",
-        addres: "Glen maykonos 24 Fiskaal street, kempton park 1619",
+        city:"Johannesburg, Midrand ",
+        addres: "05 Diagonal Street Central Towers",
               shipmentstatus: "IN Transit",
-        shippingdate: "2026-10-06",
-        deliverytime: "2026-15-06 08:41:21 AM"
+        shippingdate: "2026-17-06",
+        deliverytime: "2026-20-06 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
@@ -36,13 +36,13 @@ const trackingData = {
 
         "ZAF0050738911123": {
         trackingNumber: "ZAF0050738911123",
-        name: "Thaabela Mlindazwe",
+        name: "Sifiso Masango",
         country: "south africa",
-        city: "Durban",
-        addres: "jack martens drive shop 326/327 the pavilion shopping westvilw",
+        city: "Mpumalanga, Secunda",
+        addres: "Kinross extension 21",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-16-04",
-        deliverytime: "2026-20-04 08:41:21 AM"
+        shippingdate: "2026-17-06",
+        deliverytime: "2026-20-06 08:41:21 AM"
     },
     
      "ZAF005073891156": {
