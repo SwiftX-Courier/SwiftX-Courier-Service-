@@ -8,7 +8,7 @@ const trackingData = {
         city: "Eastern cape  ",
         addres: "Allied Biulding,Cnr Taylor Maclean street, king williams town 5601",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-7-01",
+        shippingdate: "2026-1-07",
         deliverytime: "2026-6-07 08:41:21 AM"
     },
     
@@ -19,7 +19,7 @@ const trackingData = {
         city:"Gauteng province ",
         addres: "6Skew Road Dunswarts,Anderbolt,Boksburg 1508",
               shipmentstatus: "IN Transit",
-        shippingdate: "2026-7-07",
+        shippingdate: "2026-1-07",
         deliverytime: "2026-6-07 08:41:21 AM"
     },
 
