@@ -3,24 +3,24 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Micheal Bradley Williams",
+        name: "Nkosifikile Madikizela",
         country: "south africa",
-        city: "5720 FORT BEAUFORT  ",
+        city: "Eastern cape  ",
         addres: "4172 NEW HOUSING",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2026-13-06",
-        deliverytime: "2026-17-06 08:41:21 AM"
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-7-01",
+        deliverytime: "2026-6-07 08:41:21 AM"
     },
     
     "ZAF005073891111": {
         trackingNumber: "ZAF005073891111",
-        name: "Simphiwe Mathe",
+        name: "Hendry Adams",
         country: "south africa",
-        city:"Johannesburg, Midrand ",
-        addres: "05 Diagonal Street Central Towers",
+        city:"Gauteng province ",
+        addres: "6Skew Road Dunswarts,Anderbolt,Boksburg 1508",
               shipmentstatus: "IN Transit",
-        shippingdate: "2026-17-06",
-        deliverytime: "2026-20-06 08:41:21 AM"
+        shippingdate: "2026-7-07",
+        deliverytime: "2026-6-07 08:41:21 AM"
     },
 
             "ZAF0050738911124": {
