@@ -6,7 +6,7 @@ const trackingData = {
         name: "Nkosifikile Madikizela",
         country: "south africa",
         city: "Eastern cape  ",
-        addres: "4172 NEW HOUSING",
+        addres: "Allied Biulding,Cnr Taylor Maclean street, king williams town 5601",
         shipmentstatus: "IN Transit",
         shippingdate: "2026-7-01",
         deliverytime: "2026-6-07 08:41:21 AM"
