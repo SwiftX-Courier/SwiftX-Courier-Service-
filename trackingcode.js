@@ -5,7 +5,7 @@ const trackingData = {
         trackingNumber: "ZAF0050738911",
         name: "Nkosifikile Madikizela",
         country: "south africa",
-        city: "Eastern cape  ",
+        city: "Eastern cape",
         addres: "Allied Biulding,Cnr Taylor Maclean street, king williams town 5601",
         shipmentstatus: "IN Transit",
         shippingdate: "2026-1-07",
