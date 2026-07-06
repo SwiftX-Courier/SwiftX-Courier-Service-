@@ -7,7 +7,7 @@ const trackingData = {
         country: "south africa",
         city: "Eastern cape",
         addres: "Allied Biulding,Cnr Taylor Maclean street, king williams town 5601",
-        shipmentstatus: "IN Transit",
+        shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2026-1-07",
         deliverytime: "2026-6-07 08:41:21 AM"
     },
@@ -18,7 +18,7 @@ const trackingData = {
         country: "south africa",
         city:"Gauteng province ",
         addres: "6Skew Road Dunswarts,Anderbolt,Boksburg 1508",
-              shipmentstatus: "IN Transit",
+              shipmentstatus: "Arrived (Pending Clearance)",",
         shippingdate: "2026-1-07",
         deliverytime: "2026-6-07 08:41:21 AM"
     },
