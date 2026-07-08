@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Nkosifikile Madikizela",
+        name: "Khulisani Nemasssiwane",
         country: "south africa",
-        city: "Eastern cape",
-        addres: "Allied Biulding,Cnr Taylor Maclean street, king williams town 5601",
-        shipmentstatus: "Arrived (Pending Clearance)",
-        shippingdate: "2026-1-07",
-        deliverytime: "2026-6-07 08:41:21 AM"
+        city: " johannesburg,Gauteng province",
+        addres: "6006 Manepist lawley 1830",
+        shipmentstatus: "IN Transit",
+        shippingdate: "2026-7-07",
+        deliverytime: "2026-11-07 08:41:21 AM"
     },
     
     "ZAF005073891111": {
