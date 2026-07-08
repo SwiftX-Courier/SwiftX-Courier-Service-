@@ -17,7 +17,7 @@ const trackingData = {
         name: "Hendry Adams",
         country: "south africa",
         city:"Gauteng province ",
-        addres: "6Skew Road Dunswarts,Anderbolt,Boksburg 1508",
+        addres: "6Skew Road Dunswarts Anderbolt,Boksburg 1508",
               shipmentstatus: "Arrived (Pending Clearance)",
         shippingdate: "2026-1-07",
         deliverytime: "2026-6-07 08:41:21 AM"
