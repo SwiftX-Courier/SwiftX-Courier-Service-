@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Khulisani Nemasssiwane",
+        name: "Zintl kom",
         country: "south africa",
-        city: " johannesburg,Gauteng province",
-        addres: "6006 Manepist lawley 1830",
+        city: " port alfred",
+        addres: "shop 1, elukwatini center, campbell street, port alfred 6170",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-7-07",
-        deliverytime: "2026-11-07 08:41:21 AM"
+        shippingdate: "2026-7-23",
+        deliverytime: "2026-07-27 08:41:21 AM"
     },
     
     "ZAF005073891111": {
@@ -25,13 +25,13 @@ const trackingData = {
 
             "ZAF0050738911124": {
         trackingNumber: "ZAF0050738911124",
-        name: "Balisoa",
+        name: "Godfrey khupe",
         country: "south africa",
-        city: "capetown",
-        addres: "somerset west sir lowrys pass",
+        city: "johannesburg",
+        addres: "south africa, johannesburg",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-27-04",
-        deliverytime: "2026-1-06 08:41:21 AM"
+        shippingdate: "2026-07-24",
+        deliverytime: "2026-07-27 08:41:21 AM"
     },
 
         "ZAF0050738911123": {
