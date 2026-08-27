@@ -3,13 +3,13 @@
 const trackingData = {
     "ZAF0050738911": {
         trackingNumber: "ZAF0050738911",
-        name: "Keahilwe mokwena",
+        name: "Nicholson Kagiso",
         country: "south africa",
-        city: " Johannesburg, Gaunteng province",
-        addres: "House number number 6590 braamfischerville phase 2",
+        city: " Pretoria, Gaunteng province",
+        addres: "27831 Mashiloane Street Mamelodi East EXT5",
         shipmentstatus: "IN Transit",
-        shippingdate: "2026-18-08",
-        deliverytime: "2026-22-08 08:41:21 AM"
+        shippingdate: "2026-27-08",
+        deliverytime: "2026-31-08 08:41:21 AM"
     },
     
     "ZAF005073891111": {
